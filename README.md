@@ -9,8 +9,6 @@
 <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Twitter" width="20" /> **[`TheHellTower`](https://twitter.com/TheHellTower)**
 <br>
 
-https://twitter.com/TheHellTower
-
 ## 💾 Learning
 
 [<img src="https://fr.reactjs.org/favicon.ico" alt="ReactJS" width="20" /> ReactJS](https://reactjs.org/)
