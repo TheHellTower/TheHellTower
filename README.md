@@ -4,16 +4,18 @@
 
 <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width="20" /> **[`TheHellTower#6669`](https://whois.mrrobot.app/1049676795399647334)**
 <br>
-<img src="https://www.youtube.com/s/desktop/63cd44b2/img/favicon.ico" alt="YouTube" width="20" /> **[`TheHellTower`](https://www.youtube.com/channel/UClyfmbKxs-kCzJpHFtl3xIQ)**
+<img src="https://telegram.org/img/favicon.ico" alt="Telegram" width="20" /> **[`TheHellTower`](https://t.me/TheHellTower)**
 <br>
 <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Twitter" width="20" /> **[`TheHellTower`](https://twitter.com/TheHellTower)**
+<br>
+<img src="https://www.youtube.com/s/desktop/63cd44b2/img/favicon.ico" alt="YouTube" width="20" /> **[`TheHellTower`](https://www.youtube.com/channel/UClyfmbKxs-kCzJpHFtl3xIQ)**
 <br>
 
 ## 💾 Learning
 
-[<img src="https://fr.reactjs.org/favicon.ico" alt="ReactJS" width="20" /> ReactJS](https://reactjs.org/)
-<br>
 [<img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="NextJS" width="20" /> NextJS](https://nextjs.org/)
+<br>
+[<img src="https://fr.reactjs.org/favicon.ico" alt="ReactJS" width="20" /> ReactJS](https://reactjs.org/)
 
 ## 🧰 Tools
 
