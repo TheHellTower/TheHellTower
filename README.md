@@ -55,7 +55,7 @@ I want to take a moment to express my heartfelt gratitude for your ongoing gener
 
 I know that not everyone is in a position to make a donation at this time or not at teh same level, but I appreciate your support in other ways, such as spreading the word about our cause or volunteering your time.
 
-I also want to let you know that I'm considering creating a donators leaderboard in the next months to recognize and thank our supporters.
+I also want to let you know that I'm considering creating a donators & sponsors leaderboard in the next months to recognize and thank our donators & sponsors.
 
 Optionally, If I'm able to collect enough funds, I will be able to make donations to important causes and make a significant and sustained impact on these causes over time. (All donations would be fully recorded and posted.)
 
