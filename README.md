@@ -41,7 +41,7 @@ If you find my work valuable, please consider supporting me ! Your contributions
 
 [Sponsor me on GitHub](https://github.com/sponsors/TheHellTower) (__One-Time or Monthly__)
 
-[Donate using Stripe](https://b.stripecdn.com/manage-statics-srv/assets/public/favicon.ico) (__After making a donation you will gain access to a Stripe panel to see your donations and more__)
+[Donate using Stripe](https://donate.stripe.com/cN2eWq74c4Yz1447ss) (__After making a donation you will gain access to a Stripe panel to see your donations and more__)
 
 If you also value privavy, please consider a donation through cryptocurrency. Your contribution will help me continue to create,maintain and contribute to open-source projects. As a privacy-conscious developer(even if I use bad apps for privacy like Discord), I appreciate the privacy benefits of cryptocurrency donations, which will not be linked to your identity or financial information. Your support is truly appreciated and will help me to continue pursuing my passion for developing impactful projects.
 
