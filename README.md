@@ -19,7 +19,7 @@
 
 ## 🧰 Tools
 
-[<img src="https://nodejs.org/static/images/favicons/favicon-32x32.png" alt="NodeJS" width="20" /> Node.JS](https://nodejs.org/en/)
+[<img src="https://nodejs.org/static/images/favicons/favicon.png" alt="NodeJS" width="20" /> Node.JS](https://nodejs.org/en/)
 <br>
 [<img src="https://www.sublimetext.com/favicon.ico" alt="SublimeText3" width="20" /> Sublime Text 3](https://www.sublimetext.com/3)
 <br>
