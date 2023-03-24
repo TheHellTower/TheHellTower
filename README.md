@@ -13,7 +13,7 @@
 
 ## 🛠 Services
 
-<img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/favicon.52df53a.ico" alt="Fiverr" width="20" /> **[`TheHellTower`](https://www.fiverr.com/thehelltower)**
+<img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/favicon.52df53a.ico" alt="Fiverr" width="20" /> **[`TheHellTower`](https://www.fiverr.com/thehelltower)** | [Register on their website](http://www.fiverr.com/s2/f50894a0f2)
 <br>
 <br>
 \**********
