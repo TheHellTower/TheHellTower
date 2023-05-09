@@ -2,7 +2,7 @@
 
 ## 📡 Socials
 
-<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width="20" /> **[`TheHellTower#6669`](https://whois.mrrobot.app/1049676795399647334)**
+<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width="20" /> **[`TheHellTower#0275`](https://whois.mrrobot.app/1049676795399647334)**
 <br>
 <img src="https://telegram.org/img/favicon.ico" alt="Telegram" width="20" /> **[`TheHellTower`](https://t.me/TheHellTower)**
 <br>
