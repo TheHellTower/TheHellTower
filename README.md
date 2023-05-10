@@ -8,7 +8,7 @@
 <br>
 <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Twitter" width="20" /> **[`TheHellTower`](https://twitter.com/intent/follow?screen_name=TheHellTower)**
 <br>
-<img src="https://www.youtube.com/s/desktop/63cd44b2/img/favicon.ico" alt="YouTube" width="20" /> **[`TheHellTower`](https://www.youtube.com/channel/UClyfmbKxs-kCzJpHFtl3xIQ)**
+<img src="https://www.youtube.com/s/desktop/63cd44b2/img/favicon.ico" alt="YouTube" width="20" /> **[`TheHellTower`](https://www.youtube.com/channel/UClyfmbKxs-kCzJpHFtl3xIQ?sub_confirmation=1)**
 <br>
 
 ## 🛠 Services
