@@ -2,7 +2,7 @@
 
 ## 📡 Socials
 
-<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width="20" /> **[`TheHellTower#0275`](https://whois.mrrobot.app/1049676795399647334)**
+<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width="20" /> **[`TheHellTower#6669`](https://discord.thehelltower.dev)**
 <br>
 <img src="https://telegram.org/img/favicon.ico" alt="Telegram" width="20" /> **[`TheHellTower`](https://t.me/TheHellTower)**
 <br>
@@ -44,31 +44,50 @@
 <br>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="JS" width="20" /> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## 🚀 Project I Have Contributed To
+
+- [PYCDC|Decompyle++](https://github.com/zrax/pycdc) | [PRs](https://github.com/zrax/pycdc/pulls?q=is%3Apr+author%3ATheHellTower)
+    - `C++ python bytecode disassembler and decompiler`
+- [github/explore](https://github.com/github/explore) | [PRs](https://github.com/github/explore/pulls?q=is%3Apr+author%3ATheHellTower)
+    - `Community-curated topic and collection pages on GitHub`
+
 ## 🙏 Support My Work
 
-If you find my work valuable, please consider supporting me ! Your contributions will help me dedicate more time and effort to creating,maintaining and contributing to projects.
+If you find my work valuable, please consider supporting me !<br>Your contributions will help me dedicate more time and effort to creating,maintaining and contributing to projects.<br><br>__Note: On Stripe donation people access a panel after donation(history of donations and more..) and  can include their GitHub or Twitter, if you want to tell me about your donation or include one of these for a future leaderboard you can email me at: [thehelltower@tuta.io](mailto:thehelltower@tuta.io).__
+
+### 💰 PayPal
+
+[Donate using PayPal](https://paypal.me/TheHellTower)
+
+### 🌟 GitHub Sponsors
 
 [Sponsor me on GitHub](https://github.com/sponsors/TheHellTower) (__One-Time or Monthly__)
 
+### 💳 Stripe
+
 [Donate using Stripe](https://donate.stripe.com/cN2eWq74c4Yz1447ss) (__After making a donation you will gain access to a Stripe panel to see your donations and more__)
 
-If you also value privavy, please consider a donation through cryptocurrency. Your contribution will help me continue to create,maintain and contribute to open-source projects. As a privacy-conscious developer(even if I use bad apps for privacy like Discord), I appreciate the privacy benefits of cryptocurrency donations, which will not be linked to your identity or financial information. Your support is truly appreciated and will help me to continue pursuing my passion for developing impactful projects.
-
-Note: On Stripe donation people can include their GitHub or Twitter, ff you want to tell me about your donation or include one of these you can email me at: mailto:thehelltower@tuta.io.
+### 🔒 Crypto
 
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-yellow?style=for-the-badge&logo=bitcoin&logoColor=white) `361FU4L5MZEZCeGWbsghdj4yfUvXbwRQ4A`<br>
 ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge&logo=ethereum&logoColor=white) `0xdcC5C25D6d7cEA1e374d13789EB7b59118cd9C2b`<br>
 ![Litecoin](https://img.shields.io/badge/-Litecoin-gray?style=for-the-badge&logo=ethereum&logoColor=white) `M86Lcf9mXupPu3PsQ3stpE8VDYvKMGSjQa`
+<br>__Crypto Note: For another crypto you can email me at: [thehelltower@tuta.io](mailto:thehelltower@tuta.io).__
+<details>
+    <summary>
+        Why crypto is better ?
+    </summary>
+    If you also value privacy, please consider a donation through cryptocurrency. Your contribution will help me continue to create, maintain and contribute to open-source projects. As a privacy-conscious developer(`even if I use bad apps for privacy like Discord`), I appreciate the privacy benefits of cryptocurrency donations, which will not be linked to your identity or financial information(`depending what you use as wallet, etc..`). Your support is truly appreciated and will help me to continue pursuing my passion for developing impactful projects.
+</details>
 
+### 🙌 A Thank You 🔥
 Dear supporters,
 
 I want to take a moment to express my heartfelt gratitude for your ongoing generosity and support. Your donations can make a tremendous difference in my ability to help to continue our work and achieve our goals.
 
-I know that not everyone is in a position to make a donation at this time or not at teh same level, but I appreciate your support in other ways, such as spreading the word about our cause or volunteering your time.
+I know that not everyone is in a position to make a donation at this time or not at the same level, but I appreciate your support in other ways, such as spreading the word about our cause or volunteering your time.
 
-I also want to let you know that I'm considering creating a donators & sponsors leaderboard in the next months to recognize and thank our donators & sponsors.
-
-Optionally, If I'm able to collect enough funds, I will be able to make donations to important causes and make a significant and sustained impact on these causes over time. (All donations would be fully recorded and posted.)
+I also want to let you know that I'm considering creating a donators & sponsors leaderboard in the next months if I get enough people for it to recognize and thank our donators & sponsors.
 
 Once again, thank you for your support. It means the world to me and helps me to make a positive impact in the world. I will probably keep you updated on my progress and look forward to sharing more about our work with you soon.
 
