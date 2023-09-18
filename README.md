@@ -69,9 +69,9 @@ If you find my work valuable, please consider supporting me !<br>Your contributi
 
 ### 🔒 Crypto
 
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-yellow?style=for-the-badge&logo=bitcoin&logoColor=white) `361FU4L5MZEZCeGWbsghdj4yfUvXbwRQ4A`<br>
-![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge&logo=ethereum&logoColor=white) `0xdcC5C25D6d7cEA1e374d13789EB7b59118cd9C2b`<br>
-![Litecoin](https://img.shields.io/badge/-Litecoin-gray?style=for-the-badge&logo=ethereum&logoColor=white) `M86Lcf9mXupPu3PsQ3stpE8VDYvKMGSjQa`
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-yellow?style=for-the-badge&logo=bitcoin&logoColor=white) `bc1qfcx08qp2cyacf8h3dahrsj20gd4cstrj6dm65w`<br>
+![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge&logo=ethereum&logoColor=white) `0x95dBFdCc4AdAe24d2C142DcEf804E493C49259D4`<br>
+![Litecoin](https://img.shields.io/badge/-Litecoin-gray?style=for-the-badge&logo=ethereum&logoColor=white) `LfuAPJUW5z959mv8GvzXG85iwWCcAUA2ey`
 <br>__Crypto Note: For another crypto you can email me at: [thehelltower@tuta.io](mailto:thehelltower@tuta.io).__
 <details>
     <summary>
